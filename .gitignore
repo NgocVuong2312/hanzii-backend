@@ -16,4 +16,4 @@ build/
 
 # Optional
 package-lock.json
-src/db.js
+src/configs/
