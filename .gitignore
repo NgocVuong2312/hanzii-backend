@@ -1,5 +1,19 @@
-server.js
+# Node modules
 node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+
+# Optional
+package-lock.json
 src/db.js
-.package-lock.json
-.package.json
